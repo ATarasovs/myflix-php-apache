@@ -63,7 +63,7 @@ catch(PDOException $e) {
                     <li><a href="../videos/videoList.php?order=rating" style="font-weight: 600;">Top 5</a></li>
                     <?php
                         if($subscribed == "false") {
-                            echo '<li><a href="../payments/subscribe.php" style="font-weight: 900; color: red;">SubscribeTest!!!</a></li>';
+                            echo '<li><a href="../payments/subscribe.php" style="font-weight: 900; color: red;">Subscribe!!!</a></li>';
                         }
                     ?>
                 </ul>

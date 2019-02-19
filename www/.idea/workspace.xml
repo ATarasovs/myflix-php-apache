@@ -17,8 +17,8 @@
       <file leaf-file-name="mongo_connect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/mongo_connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="221">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -93,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/include/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="382">
-              <caret line="65" column="125" selection-start-line="65" selection-start-column="125" selection-end-line="65" selection-end-column="125" />
+              <caret line="65" column="121" lean-forward="true" selection-start-line="65" selection-start-column="121" selection-end-line="65" selection-end-column="121" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
@@ -283,12 +283,12 @@
       <workItem from="1550007181839" duration="5772000" />
       <workItem from="1550081850595" duration="6397000" />
       <workItem from="1550519499972" duration="2398000" />
-      <workItem from="1550592977255" duration="80000" />
+      <workItem from="1550592977255" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73035000" />
+    <option name="totallyTimeSpent" value="73247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1435" height="782" extended-state="6" />
@@ -625,15 +625,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/mongo_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/include/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
-          <caret line="65" column="125" selection-start-line="65" selection-start-column="125" selection-end-line="65" selection-end-column="125" />
+          <caret line="65" column="121" lean-forward="true" selection-start-line="65" selection-start-column="121" selection-end-line="65" selection-end-column="121" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
