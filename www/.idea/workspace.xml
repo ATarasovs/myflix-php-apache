@@ -66,10 +66,7 @@
         <entry file="file://$PROJECT_DIR$/videos/videoList.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="68" column="174" selection-start-line="68" selection-start-column="174" selection-end-line="68" selection-end-column="174" />
-              <folding>
-                <element signature="e#2698#2718#0#HTML" expanded="true" />
-              </folding>
+              <caret line="68" column="171" selection-start-line="68" selection-start-column="171" selection-end-line="68" selection-end-column="171" />
             </state>
           </provider>
         </entry>
@@ -287,12 +284,12 @@
       <workItem from="1550081850595" duration="6397000" />
       <workItem from="1550519499972" duration="2398000" />
       <workItem from="1550592977255" duration="1027000" />
-      <workItem from="1550612631702" duration="144000" />
+      <workItem from="1550612631702" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74126000" />
+    <option name="totallyTimeSpent" value="74382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1435" height="782" extended-state="6" />
@@ -641,10 +638,7 @@
     <entry file="file://$PROJECT_DIR$/videos/videoList.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="68" column="174" selection-start-line="68" selection-start-column="174" selection-end-line="68" selection-end-column="174" />
-          <folding>
-            <element signature="e#2698#2718#0#HTML" expanded="true" />
-          </folding>
+          <caret line="68" column="171" selection-start-line="68" selection-start-column="171" selection-end-line="68" selection-end-column="171" />
         </state>
       </provider>
     </entry>

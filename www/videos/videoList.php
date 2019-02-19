@@ -66,7 +66,7 @@
         <?php foreach ($videos as $video) { ?>
             <li class="col-lg-4 col-sm-6 col-xs-12">
                 <a href="videoWatch.php?id=<?php echo $video['_id']; ?>" title="<?php echo $video['name']; ?>">
-                    <img src="<?php echo $video['ip']?>/images/<?php echo $video['image']; ?>" alt="<?php echo $video['name']; ?>" class="img-responsive" style="height:275px" />
+                    <img src="<?php echo $video['ip']?>/images/<?php echo $video['image']; ?>" alt="<?php echo $video['name']; ?>" class="img-responsive" style="height:225px" />
                     <h2><?php echo $video['name']; ?> <small>(<?php echo $video['category']; ?>)</small></h2>
                     <span class="glyphicon glyphicon-play-circle"></span>
                     <span class="duration"><i class="fa fa-clock-o" aria-hidden="true"></i> <?php echo $video['duration']; ?></span>
