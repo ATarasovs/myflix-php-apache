@@ -17,7 +17,7 @@
       <file leaf-file-name="mongo_connect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/mongo_connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="170">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
@@ -62,11 +62,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="videoList.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="videoList.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos/videoList.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="255">
+              <caret line="68" column="174" selection-start-line="68" selection-start-column="174" selection-end-line="68" selection-end-column="174" />
+              <folding>
+                <element signature="e#2698#2718#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="382">
@@ -163,11 +166,11 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/payments/subscribe.php" />
         <option value="$PROJECT_DIR$/register.php" />
-        <option value="$PROJECT_DIR$/videos/videoList.php" />
         <option value="$PROJECT_DIR$/videos/videoMain.php" />
         <option value="$PROJECT_DIR$/videos/videoWatch.php" />
         <option value="$PROJECT_DIR$/config/mongo_connect.php" />
         <option value="$PROJECT_DIR$/include/header.php" />
+        <option value="$PROJECT_DIR$/videos/videoList.php" />
       </list>
     </option>
   </component>
@@ -283,12 +286,13 @@
       <workItem from="1550007181839" duration="5772000" />
       <workItem from="1550081850595" duration="6397000" />
       <workItem from="1550519499972" duration="2398000" />
-      <workItem from="1550592977255" duration="292000" />
+      <workItem from="1550592977255" duration="1027000" />
+      <workItem from="1550612631702" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73247000" />
+    <option name="totallyTimeSpent" value="74126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1435" height="782" extended-state="6" />
@@ -301,12 +305,12 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47993827" visible="true" weight="0.2871646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47839507" visible="true" weight="0.2915156" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Google Cloud Storage" order="5" />
       <window_info id="Structure" order="1" sideWeight="0.51080245" side_tool="true" weight="0.26395938" />
-      <window_info id="Favorites" order="2" sideWeight="0.52006173" side_tool="true" visible="true" weight="0.2871646" />
+      <window_info id="Favorites" order="2" sideWeight="0.52160496" side_tool="true" visible="true" weight="0.2915156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -609,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/videoList.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos/videoWatch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -625,7 +622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/mongo_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="170">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
@@ -637,6 +634,16 @@
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos/videoList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="68" column="174" selection-start-line="68" selection-start-column="174" selection-end-line="68" selection-end-column="174" />
+          <folding>
+            <element signature="e#2698#2718#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
